@@ -1,4 +1,4 @@
-# Atividade 1: Apresentação em equipe
+# Atividade 1: Apresentação em individual
 Neste primeiro trabalho, fiz uma breve apresentação sobre mim, em qual setor e o que faço em meu trabalho atual. Não foi apresentado para turma, pois quando entrei já haviam apresentado.
 <img width="1167" height="646" alt="image" src="https://github.com/user-attachments/assets/c647811a-fd26-4097-b863-71c008f806a4" />
 
@@ -17,7 +17,8 @@ Aprendemos que a fórmula =PROCV é usada para procurar o valor específico em u
 
 # Atividade 5: Dashboard com dados Comex 2025 exportação
 
-<img width="1081" height="733" alt="image" src="https://github.com/user-attachments/assets/f07f2730-1bd6-4ece-a422-b6e4782b9f63" />
+<img width="1065" height="769" alt="image" src="https://github.com/user-attachments/assets/540c9c01-e7de-4303-862c-be9b60b6de89" />
+
 
 # Atividade 6: Regressão Linar 
 
