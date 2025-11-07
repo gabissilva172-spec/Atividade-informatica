@@ -22,4 +22,5 @@ Aprendemos que a fórmula =PROCV é usada para procurar o valor específico em u
 
 # Atividade 6: Regressão Linear 
 
-<img width="573" height="458" alt="image" src="https://github.com/user-attachments/assets/8838782d-dd93-420a-ba51-d0889199caa1" />
+<img width="573" height="445" alt="image" src="https://github.com/user-attachments/assets/676cc5bf-5223-4e2d-a0b3-d3950542bfc6" />
+
