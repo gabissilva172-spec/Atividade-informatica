@@ -19,3 +19,6 @@ Aprendemos que a fórmula =PROCV é usada para procurar o valor específico em u
 
 <img width="1081" height="733" alt="image" src="https://github.com/user-attachments/assets/f07f2730-1bd6-4ece-a422-b6e4782b9f63" />
 
+# Atividade 6: Regressão Linar 
+
+<img width="573" height="458" alt="image" src="https://github.com/user-attachments/assets/8838782d-dd93-420a-ba51-d0889199caa1" />
