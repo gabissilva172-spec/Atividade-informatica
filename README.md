@@ -1,10 +1,10 @@
 # Atividade 1: Apresentação em equipe;
-Neste priemrio trabahlho, fiz uma breve apresentação sobre mim, em qual setor e o que faço em meu trabalho atual. Não foi apresentado para niguém da turma, pois quando entrei já haviam apresentado.
+Neste primeiro trabalho, fiz uma breve apresentação sobre mim, em qual setor e o que faço em meu trabalho atual. Não foi apresentado para turma, pois quando entrei já haviam apresentado.
 <img width="1167" height="646" alt="image" src="https://github.com/user-attachments/assets/c647811a-fd26-4097-b863-71c008f806a4" />
 
 
 # Atividade 2: Análise exploratório de Restaurantes, Bares e Cafeterias via Microsoft Excel
-Foi usado a fórmula =CONT.SE para contar quando os requisitos foram atendidos, e a =CONT.SES para verificar quando vários critérios foram cumpridos ao mesmo tempo. 
+Foi usado a fórmula =CONT.SE para contar quando os requisitos que foram atendidos, e a =CONT.SES para verificar quando vários critérios foram cumpridos ao mesmo tempo. 
 <img width="1329" height="288" alt="image" src="https://github.com/user-attachments/assets/09e84050-873d-434c-9765-2541f70cd4a0" />
 
 # Atividade 3: Plano de Produtos e Exportações dados Comex Stat via Microsoft Excel
