@@ -12,8 +12,8 @@ Aprendemos que a fórmula =PROCV é usada para procurar o valor específico em u
 <img width="1239" height="374" alt="image" src="https://github.com/user-attachments/assets/fee98c24-f362-4c5c-bccb-f7daf408550b" />
 
 # Atividade 4: Interpretação de dados do PowerBI
+<img width="858" height="656" alt="Captura de tela 2025-11-06 215043" src="https://github.com/user-attachments/assets/cca60576-3fe8-46a6-a604-35ebbc0701fb" />
 
-<img width="858" height="656" alt="Captura de tela 2025-11-06 215043" src="https://github.com/user-attachments/assets/d4841fac-2c27-4944-844a-f879e0c6d76c" />
 
 # Atividade 5: Dashboard com dados Comex 2025 exportação
 
