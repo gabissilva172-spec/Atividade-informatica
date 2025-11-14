@@ -20,7 +20,16 @@ Aprendemos que a fórmula =PROCV é usada para procurar o valor específico em u
 <img width="1065" height="769" alt="image" src="https://github.com/user-attachments/assets/540c9c01-e7de-4303-862c-be9b60b6de89" />
 
 
-# Atividade 6: Regressão Linear 
+# Atividade 6: Gráfico de Regressão Linear - Sorvete
+<img width="1600" height="652" alt="image" src="https://github.com/user-attachments/assets/6deb101a-9810-4e96-baec-ec42d7bb240a" />
+<img width="1355" height="827" alt="Captura de tela 2025-11-14 190543" src="https://github.com/user-attachments/assets/664fa88e-b5ff-446e-a7cf-f4dcb0bdc202" />
 
-<img width="573" height="445" alt="image" src="https://github.com/user-attachments/assets/676cc5bf-5223-4e2d-a0b3-d3950542bfc6" />
+# Atividade 6: Gráfico de Regressão Linear - Salários
+<img width="1600" height="636" alt="image" src="https://github.com/user-attachments/assets/70ff9895-2b94-40de-8424-85b9c1caeb34" />
+<img width="828" height="405" alt="image" src="https://github.com/user-attachments/assets/15f0883c-565e-45b5-835e-00571f696f02" />
+
+
+
+
+
 
