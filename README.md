@@ -1,7 +1,5 @@
 # Atividade 1: Apresentação em individual
-Neste primeiro trabalho, fiz uma breve apresentação sobre mim, em qual setor e o que faço em meu trabalho atual. Não foi apresentado para turma, pois quando entrei já haviam apresentado.
-<img width="1167" height="646" alt="image" src="https://github.com/user-attachments/assets/c647811a-fd26-4097-b863-71c008f806a4" />
-
+<img width="1171" height="660" alt="image" src="https://github.com/user-attachments/assets/1b4ae4d6-9885-448f-8086-c56d1631a62f" />
 
 # Atividade 2: Análise exploratória de Restaurantes, Bares e Cafeterias via Microsoft Excel
 Foi usado a fórmula =CONT.SE para contar quando os requisitos que foram atendidos, e a =CONT.SES para verificar quando vários critérios foram cumpridos ao mesmo tempo. 
